@@ -1,2 +1,16 @@
 # PE-Hackaton
-Hackaton du groupe Louis, Martin, Osman et Rafaël
+
+
+Nom du groupe :
+
+Rafaël Leclerc
+
+Louis le Daim
+
+Osman Rittano
+
+Martin Zadora
+
+```python
+
+```
